@@ -1,0 +1,1 @@
+This bot is basically a God-Bot (from Pandora-bots) which can sit in any chat room on icanhazchat.com and let users interact with it while serving typical 'God' style replies.
